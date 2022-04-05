@@ -1,0 +1,31 @@
+
+
+.nav-bar{
+ color: white;
+}
+#pic{
+ margin-top: 100px;
+}
+#imagesz{
+ margin-top: 10px;
+}
+.item-menu{
+ margin-top: 10px;
+ margin-right: 20px;
+ margin-left:40px;
+ text-align: center;
+}
+.col-1{
+ margin: 0;
+ padding: 0;
+ font-size: small;
+}
+.col-2{
+ padding: 0;
+}
+#people{
+ border:  3px;
+ border-top-color: #dc3545;
+
+
+}
