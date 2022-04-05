@@ -23,9 +23,27 @@
 .col-2{
  padding: 0;
 }
-#people{
- border:  3px;
- border-top-color: #dc3545;
-
-
+.people{
+ border-top: 2px solid red;
 }
+.row-one{
+ margin: 0;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ padding-left: 60px;
+ font-size: small;
+ background-color: lightgray;
+ width: 50%;
+ text-align: justify;
+}
+.table1{
+ margin: 0;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ padding-left: 60px;
+ font-size: small;
+ background-color: lightgray;
+ width: 50%;
+ text-align: justify;
+}
+
